@@ -1,4 +1,4 @@
-🚀 Ox Streak Stars (React + TypeScript + Vite)
+🚀 Ox Mastermind (React + TypeScript + Vite)
 
 A simple web application built with React + TypeScript + Vite.
 This project is designed for fast development, clean structure, and easy extensibility (e.g. adding authentication, APIs, or game logic).
